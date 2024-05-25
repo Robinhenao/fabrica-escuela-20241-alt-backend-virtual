@@ -8,3 +8,5 @@
 git clone <url_del_repositorio>
 ```
 
+2. jajajaja
+3. 
